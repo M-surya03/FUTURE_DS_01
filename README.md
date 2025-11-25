@@ -16,9 +16,16 @@ This project focuses on transforming real-world e-commerce sales data into actio
 🔹 What are the best-selling product combinations?
 🔹 How can businesses increase revenue and optimize inventory?
 
-📎 Project Deliverable
+🗂 Datasets Used
 
-📥 Download Power BI Dashboard (.pbix file)
-➡️ Click to Download
+Two datasets were explored separately in Power BI:
+
+Dataset	Description
+🛒 E-commerce Sales Data     --->      (Kaggle)	500K+ online transaction records, customer and product details, regional sales
+💻 Superstore Sales Dataset  --->	      Sales, profit, discount, region, shipping, segment, and category-level data
+
+Tools Used:
+PowerBI
+
 
 The file contains dashboards designed using real-world datasets and interactive filters for deeper analysis.
